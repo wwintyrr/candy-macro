@@ -3,8 +3,8 @@ idk simple GPO candy macro, no venv just install the dependencies
 
 ### 1. Clone repository:
 ```bash
-git clone https://github.com/wwintyrr/Simple-Autoclicker
-cd Simple-Autoclicker
+git clone https://github.com/wwintyrr/candy-macro
+cd candy-macro
 ```
 ### 2. Download dependencies:
 ```bash
