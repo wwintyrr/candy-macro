@@ -11,7 +11,7 @@ cd Simple-Autoclicker
 pip install -r requirements.txt
 ```
 
-then just launch main.py
+then just launch main.py.
 for this to work on mac, try adapting the pydirectinput to another library like pyautogui.
 
 ### thanks for using my macro
