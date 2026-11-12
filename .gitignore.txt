@@ -1,5 +1,0 @@
-# .gitignore
-.vscode/
-vscode/
-__pycache__/
-*.pyc
